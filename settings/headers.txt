@@ -1,0 +1,9 @@
+Authentication-Results-Original: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=viss.ae;
+x-ms-traffictypediagnostic:
+ GV1PR04MB9200:EE_|PA4PR04MB7518:EE_|DB3EUR04FT013:EE_|IA1P223MB0428:EE_|PH8P223MB0553:EE_
+X-MS-Office365-Filtering-Correlation-Id: 7671182d-57d9-4a73-fd94-08dbd0e00a31
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+X-Microsoft-Antispam-Untrusted: BCL:0;
+Reply-To: reply@example.com
